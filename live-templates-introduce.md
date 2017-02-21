@@ -76,6 +76,6 @@
 ![环绕功能介绍](images/xvii-d-live-templates-surround-settings-1.gif)
 
 > * 上图 Gif 演示为最好的介绍 `surround templates`。
-> * 如上图 Gif 演示，环绕模板的前提是：选中要被环绕的内容(weijuer补充)之后，按Ctrl+Alt+T，可以激活环绕模板。
+> * 如上图 Gif 演示，环绕模板的前提是：选中要被环绕的内容(weijuer补充)之后，按`Ctrl+Alt+T`，可以激活环绕模板。
 > * 在设置实时代码模板的时候，如果含有预设的变量 `$SELECTION$` 则该实时代码模板是环绕模板。
 > * 该功能对于前端开发者来讲是非常方便的，默认 IntelliJ IDEA 已经自带了 HTML 标签的环绕功能。
